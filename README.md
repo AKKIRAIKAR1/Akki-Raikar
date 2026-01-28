@@ -1,8 +1,8 @@
-## 👋 Hi, I’m Akki
+## 👋 Hi, I’m Akshay Raikar
 
 💻 MCA | Coding & Problem-Solving  
 🚀 Learning daily: DSA • Web • AI  
-🛠 Tech: C • Java • Python • JavaScript • SQL  
+🛠 Tech: Python • JavaScript • PHP • React •  • SQL  
 
 ## 🔧 What I Do
 - Build small, practical projects  
@@ -10,6 +10,7 @@
 - Focus on clean, readable code  
 
 ## 📈 Current Focus
+- Builing AI projects
 - Data Structures & Algorithms  
 - Backend & system basics  
 - Real-world development  
