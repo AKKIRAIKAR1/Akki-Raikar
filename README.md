@@ -18,3 +18,6 @@
 ## ⚡ Status
 - Active  
 - Auto-updated via GitHub Actions
+
+## Leetcode
+https://leetcode.com/u/ouCgREp5X1/
