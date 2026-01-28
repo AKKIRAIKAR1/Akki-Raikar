@@ -2,7 +2,7 @@
 
 💻 MCA | Coding & Problem-Solving  
 🚀 Learning daily: DSA • Web • AI  
-🛠 Tech: Python • JavaScript • PHP • React •  • SQL  
+🛠 Tech: Python • JavaScript • PHP • React • SQL • Dart
 
 ## 🔧 What I Do
 - Build small, practical projects  
